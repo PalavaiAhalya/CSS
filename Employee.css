@@ -1,0 +1,19 @@
+
+table{
+   
+    border-collapse: collapse;
+    height: 150px;
+    width: 40%;
+}
+#emp{
+    background-color: green;
+    color: white;
+    
+}
+
+td:nth-child(2){
+    background-color: aqua;
+    color: black;
+    border: black;
+}
+

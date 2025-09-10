@@ -1,0 +1,45 @@
+table{
+
+    border: 2px solid black;
+    border-collapse: collapse;
+    color: black;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+    
+
+}
+td:nth-child(1){
+    background-color:gray;
+    
+}
+td:nth-child(2){
+    background-color:yellow;
+    
+}
+
+td:nth-child(3){
+    background-color:aqua;
+    
+}
+th:nth-child(1){
+background-color: gray;
+}
+th:nth-child(2){
+background-color: yellow;
+}
+  th:nth-child(3){
+background-color: aqua;
+}
+th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    color: black;
+
+}
+    
+    
+
+
+
+

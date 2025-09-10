@@ -1,0 +1,10 @@
+/*descendent combinator*/
+#head,.class1{
+    background-color: aqua;
+    color: blueviolet;
+}
+/*child*/
+#parent > .class2{
+    background-color:yellowgreen;
+    color: blueviolet   ;
+}

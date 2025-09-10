@@ -1,0 +1,43 @@
+#head{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.head{
+    background-color: blue;
+    color: green;
+} 
+
+#head1{
+    background-color: aquamarine;
+    color:beige;
+
+}
+.head1{
+    background-color: antiquewhite;
+    color:blue;
+}
+#teja{
+    background-color: beige;
+    color:red;
+}
+.ahalya{
+    background-color:pink ;
+    color: blue;
+    font-size:smaller;
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    background-color: brown;
+    color: whitesmoke;
+}
+
+.head1,.ahalya,#teja{
+    background-color: blueviolet;
+}
+*,.head1,.ahalya,#teja{
+    background-color:orange;
+    color:greenyellow;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

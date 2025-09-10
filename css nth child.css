@@ -1,0 +1,18 @@
+#o{
+    color: green;
+}
+li:nth-child(2){
+    background-color: green;
+    color: blue;
+}
+li:nth-child(4){
+    background-color: green;
+    color: blue;
+}
+li:last-child{
+    background-color: green;
+    color: blue;
+}
+li{
+    width:10%;
+}

@@ -1,0 +1,28 @@
+/* id selector
+#head{
+    background-color: pink;
+    color: greenyellow;
+    
+}
+class selector
+.head{
+    background-color: yellow;
+    color: red;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color: aqua;
+    color: burlywood;
+} */
+
+#head,.head,h1{
+    background-color: aqua;
+    color: red;
+}
+
+*{
+    background-color: black ;
+}
+

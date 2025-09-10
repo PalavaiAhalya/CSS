@@ -1,0 +1,38 @@
+table{
+    border: 2px solid black ;
+    border-collapse: collapse ;
+    height: 250px;
+    width: 70%;
+}
+#tail{
+    background-color: green;
+    color: wheat;
+     border: 2px solid black ; 
+
+}
+
+td:nth-child(1){
+
+    border: 2px dotted black;
+    background-color: white;
+}
+td:nth-child(2){
+    border: 2px double black;
+    background-color:aqua;
+}
+td:nth-child(3){
+    border: 2px solid black;
+    background-color:pink;
+}
+
+tr:last-child td{
+    background-color: white;
+}
+
+/* td:nth-child(1) → selects 1st column cells.
+
+td:nth-child(2) → selects 2nd column cells.
+
+td:nth-child(3) → selects 3rd column cells.
+
+tr:last-child td → selects all cells in the last row (your “Total students” row). */
